@@ -1,0 +1,20 @@
+= Learn Spring REST Docs
+:toc: left
+
+接口文档
+
+== /user: index
+用户列表
+
+operation::user[]
+
+== /user: show
+显示用户详情
+
+operation::user-show[]
+
+== /user: put
+修改用户
+
+operation::user-edit[]
+
